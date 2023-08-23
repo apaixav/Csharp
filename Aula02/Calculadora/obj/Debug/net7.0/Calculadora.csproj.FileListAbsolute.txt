@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula02\Calculadora\bin\Debug\net7.0\Calculadora.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula02\Calculadora\bin\Debug\net7.0\Calculadora.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula02\Calculadora\bin\Debug\net7.0\Calculadora.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula02\Calculadora\bin\Debug\net7.0\Calculadora.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula02\Calculadora\bin\Debug\net7.0\Calculadora.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula02\Calculadora\obj\Debug\net7.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula02\Calculadora\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula02\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula02\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula02\Calculadora\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula02\Calculadora\obj\Debug\net7.0\Calculadora.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula02\Calculadora\obj\Debug\net7.0\refint\Calculadora.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula02\Calculadora\obj\Debug\net7.0\Calculadora.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula02\Calculadora\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula02\Calculadora\obj\Debug\net7.0\ref\Calculadora.dll
