@@ -15,7 +15,12 @@
             Console.WriteLine($"{numero1} + {numero2} = "+ (numero1 + numero2));
             Console.WriteLine($"{numero1} - {numero2} = " + (numero1 - numero2));
             Console.WriteLine($"{numero1} * {numero2} = " + (numero1 * numero2));
-            Console.WriteLine($"{numero1} / {numero2} = {0:##}" + (numero1 / numero2));
+
+            if(numero2 > 0) 
+                Console.WriteLine($"{numero1} / {numero2} = {0:##}" + (numero1 / numero2));
+            else
+                Console.WriteLine("Não existe divisão por zero!");
+
             Console.WriteLine($"{numero1} ^ {numero2} = " + Math.Pow(numero1, numero2));
             Console.WriteLine($"Raiz quadrade de {numero1} é = " + Math.Sqrt(numero1));
         }
