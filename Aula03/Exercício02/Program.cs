@@ -5,7 +5,8 @@
         static void Main(string[] args)
         {
             string? nome;
-            int idade, doacao;
+            int idade;
+            bool  sim = true, nao = false;
 
             Console.WriteLine("Informe o seu nome");
             nome = Console.ReadLine();
@@ -13,22 +14,20 @@
             Console.WriteLine("Informe o sua idade");
             idade = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("1 - Sim ");
-            Console.WriteLine("2 - Não");
-
             Console.WriteLine("Já doou sangue uma vez ?:");
-            doacao = Convert.ToInt32(Console.ReadLine());
+             sim = Convert.ToBoolean(Console.ReadLine());
 
 
-            if (idade >= 18 && idade <= 69 && doacao == 1)
+
+            if (idade >= 18 && idade <= 69 && sim)
             {
                 Console.WriteLine($"{nome} está apto a doar sangue");
             }
-            else if (idade >= 18 && idade <= 69 && doacao == 2)
+            else if (idade >= 18 && idade <= 69 && nao)
             {
                 Console.WriteLine($"{nome} está apto a doar sangue");
             }
-            else if (idade >= 60 && idade <= 69 && doacao == 2)
+            else if (idade >= 60 && idade <= 69 && nao)
             {
                 Console.WriteLine($"{nome} não está apto a doar sangue");
             }

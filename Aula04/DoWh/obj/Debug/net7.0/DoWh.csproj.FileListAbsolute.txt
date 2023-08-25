@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\DoWh\bin\Debug\net7.0\DoWh.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\DoWh\bin\Debug\net7.0\DoWh.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\DoWh\bin\Debug\net7.0\DoWh.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\DoWh\bin\Debug\net7.0\DoWh.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\DoWh\bin\Debug\net7.0\DoWh.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\DoWh\obj\Debug\net7.0\DoWh.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\DoWh\obj\Debug\net7.0\DoWh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\DoWh\obj\Debug\net7.0\DoWh.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\DoWh\obj\Debug\net7.0\DoWh.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\DoWh\obj\Debug\net7.0\DoWh.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\DoWh\obj\Debug\net7.0\DoWh.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\DoWh\obj\Debug\net7.0\refint\DoWh.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\DoWh\obj\Debug\net7.0\DoWh.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\DoWh\obj\Debug\net7.0\DoWh.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\DoWh\obj\Debug\net7.0\ref\DoWh.dll

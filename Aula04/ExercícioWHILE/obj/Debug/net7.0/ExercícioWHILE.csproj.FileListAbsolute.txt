@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\ExercícioWHILE\bin\Debug\net7.0\ExercícioWHILE.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\ExercícioWHILE\bin\Debug\net7.0\ExercícioWHILE.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\ExercícioWHILE\bin\Debug\net7.0\ExercícioWHILE.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\ExercícioWHILE\bin\Debug\net7.0\ExercícioWHILE.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\ExercícioWHILE\bin\Debug\net7.0\ExercícioWHILE.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\ExercícioWHILE\obj\Debug\net7.0\ExercícioWHILE.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\ExercícioWHILE\obj\Debug\net7.0\ExercícioWHILE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\ExercícioWHILE\obj\Debug\net7.0\ExercícioWHILE.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\ExercícioWHILE\obj\Debug\net7.0\ExercícioWHILE.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\ExercícioWHILE\obj\Debug\net7.0\ExercícioWHILE.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\ExercícioWHILE\obj\Debug\net7.0\ExercícioWHILE.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\ExercícioWHILE\obj\Debug\net7.0\refint\ExercícioWHILE.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\ExercícioWHILE\obj\Debug\net7.0\ExercícioWHILE.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\ExercícioWHILE\obj\Debug\net7.0\ExercícioWHILE.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\ExercícioWHILE\obj\Debug\net7.0\ref\ExercícioWHILE.dll

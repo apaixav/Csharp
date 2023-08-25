@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\Tabuada\bin\Debug\net7.0\Tabuada.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\Tabuada\bin\Debug\net7.0\Tabuada.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\Tabuada\bin\Debug\net7.0\Tabuada.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\Tabuada\bin\Debug\net7.0\Tabuada.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\Tabuada\bin\Debug\net7.0\Tabuada.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\Tabuada\obj\Debug\net7.0\Tabuada.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\Tabuada\obj\Debug\net7.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\Tabuada\obj\Debug\net7.0\Tabuada.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\Tabuada\obj\Debug\net7.0\Tabuada.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\Tabuada\obj\Debug\net7.0\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\Tabuada\obj\Debug\net7.0\Tabuada.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\Tabuada\obj\Debug\net7.0\refint\Tabuada.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\Tabuada\obj\Debug\net7.0\Tabuada.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\Tabuada\obj\Debug\net7.0\Tabuada.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\Tabuada\obj\Debug\net7.0\ref\Tabuada.dll

@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\ExercicioFOR\obj\Debug\net7.0\ExercicioFOR.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\ExercicioFOR\obj\Debug\net7.0\ExercicioFOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\ExercicioFOR\obj\Debug\net7.0\ExercicioFOR.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\ExercicioFOR\obj\Debug\net7.0\ExercicioFOR.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\ExercicioFOR\obj\Debug\net7.0\ExercicioFOR.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\ExercicioFOR\bin\Debug\net7.0\ExercicioFOR.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\ExercicioFOR\bin\Debug\net7.0\ExercicioFOR.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\ExercicioFOR\bin\Debug\net7.0\ExercicioFOR.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\ExercicioFOR\bin\Debug\net7.0\ExercicioFOR.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\ExercicioFOR\bin\Debug\net7.0\ExercicioFOR.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\ExercicioFOR\obj\Debug\net7.0\ExercicioFOR.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\ExercicioFOR\obj\Debug\net7.0\refint\ExercicioFOR.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\ExercicioFOR\obj\Debug\net7.0\ExercicioFOR.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\ExercicioFOR\obj\Debug\net7.0\ExercicioFOR.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\ExercicioFOR\obj\Debug\net7.0\ref\ExercicioFOR.dll

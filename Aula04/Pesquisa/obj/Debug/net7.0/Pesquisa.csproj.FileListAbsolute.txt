@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\Pesquisa\bin\Debug\net7.0\Pesquisa.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\Pesquisa\bin\Debug\net7.0\Pesquisa.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\Pesquisa\bin\Debug\net7.0\Pesquisa.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\Pesquisa\bin\Debug\net7.0\Pesquisa.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\Pesquisa\bin\Debug\net7.0\Pesquisa.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\Pesquisa\obj\Debug\net7.0\Pesquisa.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\Pesquisa\obj\Debug\net7.0\Pesquisa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\Pesquisa\obj\Debug\net7.0\Pesquisa.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\Pesquisa\obj\Debug\net7.0\Pesquisa.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\Pesquisa\obj\Debug\net7.0\Pesquisa.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\Pesquisa\obj\Debug\net7.0\Pesquisa.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\Pesquisa\obj\Debug\net7.0\refint\Pesquisa.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\Pesquisa\obj\Debug\net7.0\Pesquisa.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\Pesquisa\obj\Debug\net7.0\Pesquisa.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula04\Pesquisa\obj\Debug\net7.0\ref\Pesquisa.dll
