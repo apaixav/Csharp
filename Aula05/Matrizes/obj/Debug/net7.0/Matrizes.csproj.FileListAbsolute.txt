@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\Matrizes\bin\Debug\net7.0\Matrizes.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\Matrizes\bin\Debug\net7.0\Matrizes.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\Matrizes\bin\Debug\net7.0\Matrizes.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\Matrizes\bin\Debug\net7.0\Matrizes.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\Matrizes\bin\Debug\net7.0\Matrizes.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\Matrizes\obj\Debug\net7.0\Matrizes.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\Matrizes\obj\Debug\net7.0\Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\Matrizes\obj\Debug\net7.0\Matrizes.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\Matrizes\obj\Debug\net7.0\Matrizes.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\Matrizes\obj\Debug\net7.0\Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\Matrizes\obj\Debug\net7.0\Matrizes.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\Matrizes\obj\Debug\net7.0\refint\Matrizes.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\Matrizes\obj\Debug\net7.0\Matrizes.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\Matrizes\obj\Debug\net7.0\Matrizes.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\Matrizes\obj\Debug\net7.0\ref\Matrizes.dll

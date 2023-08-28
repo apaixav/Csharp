@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\ExercícioVetor\obj\Debug\net7.0\ExercícioVetor.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\ExercícioVetor\obj\Debug\net7.0\ExercícioVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\ExercícioVetor\obj\Debug\net7.0\ExercícioVetor.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\ExercícioVetor\obj\Debug\net7.0\ExercícioVetor.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\ExercícioVetor\obj\Debug\net7.0\ExercícioVetor.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\ExercícioVetor\bin\Debug\net7.0\ExercícioVetor.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\ExercícioVetor\bin\Debug\net7.0\ExercícioVetor.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\ExercícioVetor\bin\Debug\net7.0\ExercícioVetor.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\ExercícioVetor\bin\Debug\net7.0\ExercícioVetor.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\ExercícioVetor\bin\Debug\net7.0\ExercícioVetor.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\ExercícioVetor\obj\Debug\net7.0\ExercícioVetor.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\ExercícioVetor\obj\Debug\net7.0\refint\ExercícioVetor.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\ExercícioVetor\obj\Debug\net7.0\ExercícioVetor.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\ExercícioVetor\obj\Debug\net7.0\ExercícioVetor.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\ExercícioVetor\obj\Debug\net7.0\ref\ExercícioVetor.dll

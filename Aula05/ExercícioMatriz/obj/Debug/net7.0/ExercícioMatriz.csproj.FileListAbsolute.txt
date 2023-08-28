@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\ExercícioMatriz\bin\Debug\net7.0\ExercícioMatriz.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\ExercícioMatriz\bin\Debug\net7.0\ExercícioMatriz.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\ExercícioMatriz\bin\Debug\net7.0\ExercícioMatriz.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\ExercícioMatriz\bin\Debug\net7.0\ExercícioMatriz.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\ExercícioMatriz\bin\Debug\net7.0\ExercícioMatriz.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\ExercícioMatriz\obj\Debug\net7.0\ExercícioMatriz.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\ExercícioMatriz\obj\Debug\net7.0\ExercícioMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\ExercícioMatriz\obj\Debug\net7.0\ExercícioMatriz.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\ExercícioMatriz\obj\Debug\net7.0\ExercícioMatriz.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\ExercícioMatriz\obj\Debug\net7.0\ExercícioMatriz.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\ExercícioMatriz\obj\Debug\net7.0\ExercícioMatriz.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\ExercícioMatriz\obj\Debug\net7.0\refint\ExercícioMatriz.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\ExercícioMatriz\obj\Debug\net7.0\ExercícioMatriz.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\ExercícioMatriz\obj\Debug\net7.0\ExercícioMatriz.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula05\ExercícioMatriz\obj\Debug\net7.0\ref\ExercícioMatriz.dll
