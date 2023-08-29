@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioQueue\bin\Debug\net7.0\ExercícioQueue.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioQueue\bin\Debug\net7.0\ExercícioQueue.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioQueue\bin\Debug\net7.0\ExercícioQueue.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioQueue\bin\Debug\net7.0\ExercícioQueue.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioQueue\bin\Debug\net7.0\ExercícioQueue.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioQueue\obj\Debug\net7.0\ExercícioQueue.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioQueue\obj\Debug\net7.0\ExercícioQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioQueue\obj\Debug\net7.0\ExercícioQueue.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioQueue\obj\Debug\net7.0\ExercícioQueue.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioQueue\obj\Debug\net7.0\ExercícioQueue.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioQueue\obj\Debug\net7.0\ExercícioQueue.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioQueue\obj\Debug\net7.0\refint\ExercícioQueue.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioQueue\obj\Debug\net7.0\ExercícioQueue.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioQueue\obj\Debug\net7.0\ExercícioQueue.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioQueue\obj\Debug\net7.0\ref\ExercícioQueue.dll

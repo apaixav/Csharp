@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioHarsh\bin\Debug\net7.0\ExercícioHarsh.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioHarsh\bin\Debug\net7.0\ExercícioHarsh.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioHarsh\bin\Debug\net7.0\ExercícioHarsh.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioHarsh\bin\Debug\net7.0\ExercícioHarsh.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioHarsh\bin\Debug\net7.0\ExercícioHarsh.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioHarsh\obj\Debug\net7.0\ExercícioHarsh.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioHarsh\obj\Debug\net7.0\ExercícioHarsh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioHarsh\obj\Debug\net7.0\ExercícioHarsh.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioHarsh\obj\Debug\net7.0\ExercícioHarsh.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioHarsh\obj\Debug\net7.0\ExercícioHarsh.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioHarsh\obj\Debug\net7.0\ExercícioHarsh.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioHarsh\obj\Debug\net7.0\refint\ExercícioHarsh.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioHarsh\obj\Debug\net7.0\ExercícioHarsh.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioHarsh\obj\Debug\net7.0\ExercícioHarsh.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioHarsh\obj\Debug\net7.0\ref\ExercícioHarsh.dll

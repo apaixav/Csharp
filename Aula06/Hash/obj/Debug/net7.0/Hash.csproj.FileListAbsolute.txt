@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\Hash\bin\Debug\net7.0\Hash.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\Hash\bin\Debug\net7.0\Hash.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\Hash\bin\Debug\net7.0\Hash.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\Hash\bin\Debug\net7.0\Hash.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\Hash\bin\Debug\net7.0\Hash.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\Hash\obj\Debug\net7.0\Hash.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\Hash\obj\Debug\net7.0\Hash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\Hash\obj\Debug\net7.0\Hash.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\Hash\obj\Debug\net7.0\Hash.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\Hash\obj\Debug\net7.0\Hash.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\Hash\obj\Debug\net7.0\Hash.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\Hash\obj\Debug\net7.0\refint\Hash.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\Hash\obj\Debug\net7.0\Hash.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\Hash\obj\Debug\net7.0\Hash.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\Hash\obj\Debug\net7.0\ref\Hash.dll

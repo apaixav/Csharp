@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioPilha\obj\Debug\net7.0\ExercícioPilha.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioPilha\obj\Debug\net7.0\ExercícioPilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioPilha\obj\Debug\net7.0\ExercícioPilha.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioPilha\obj\Debug\net7.0\ExercícioPilha.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioPilha\obj\Debug\net7.0\ExercícioPilha.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioPilha\bin\Debug\net7.0\ExercícioPilha.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioPilha\bin\Debug\net7.0\ExercícioPilha.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioPilha\bin\Debug\net7.0\ExercícioPilha.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioPilha\bin\Debug\net7.0\ExercícioPilha.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioPilha\bin\Debug\net7.0\ExercícioPilha.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioPilha\obj\Debug\net7.0\ExercícioPilha.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioPilha\obj\Debug\net7.0\refint\ExercícioPilha.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioPilha\obj\Debug\net7.0\ExercícioPilha.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioPilha\obj\Debug\net7.0\ExercícioPilha.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula06\ExercícioPilha\obj\Debug\net7.0\ref\ExercícioPilha.dll
