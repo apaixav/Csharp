@@ -27,7 +27,7 @@ namespace ExercícioObjeto
 
             c2.Visualizar();
 
-            c2.SetGenero(2);
+            c2.SetGenero(5);
 
             c2.Visualizar();
         }
