@@ -68,10 +68,10 @@ namespace ExercícioObjeto.Classe
         {
             if (this.olho = olhos )
             {
-            Console.WriteLine($"O cliente tem dois olhos? {olhos} /O cliente cumpre os critérios de uma pessoa");
+            Console.WriteLine($" {olhos} /O cliente é considerado padrão");
             return true;
             }
-              Console.WriteLine($"O cliente tem dois olhos? {olhos} /O cliente não cumpre os critérios de uma pessoa");
+              Console.WriteLine($" {olhos} /O cliente não é um cliente padrão");
                return false;
 
         }
