@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula08\ExercícioGames\bin\Debug\net7.0\ExercícioGames.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula08\ExercícioGames\bin\Debug\net7.0\ExercícioGames.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula08\ExercícioGames\bin\Debug\net7.0\ExercícioGames.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula08\ExercícioGames\bin\Debug\net7.0\ExercícioGames.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula08\ExercícioGames\bin\Debug\net7.0\ExercícioGames.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula08\ExercícioGames\obj\Debug\net7.0\ExercícioGames.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula08\ExercícioGames\obj\Debug\net7.0\ExercícioGames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula08\ExercícioGames\obj\Debug\net7.0\ExercícioGames.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula08\ExercícioGames\obj\Debug\net7.0\ExercícioGames.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula08\ExercícioGames\obj\Debug\net7.0\ExercícioGames.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula08\ExercícioGames\obj\Debug\net7.0\ExercícioGames.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula08\ExercícioGames\obj\Debug\net7.0\refint\ExercícioGames.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula08\ExercícioGames\obj\Debug\net7.0\ExercícioGames.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula08\ExercícioGames\obj\Debug\net7.0\ExercícioGames.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula08\ExercícioGames\obj\Debug\net7.0\ref\ExercícioGames.dll

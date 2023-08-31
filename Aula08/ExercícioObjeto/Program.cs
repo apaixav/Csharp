@@ -1,0 +1,24 @@
+﻿using ExercícioObjeto.Classe;
+
+namespace ExercícioObjeto
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Cliente c1 = new Cliente("Lucas", "267.593.722-64", 27, true, 1);
+
+            c1.Visualizar();
+            c1.SetIdade(36);
+            c1.Visualizar();
+
+            c1.Dois(false);
+
+            c1.Visualizar();
+
+            c1.SetGenero(3);
+
+            c1.Visualizar();
+        }
+    }
+}
