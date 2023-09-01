@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula09\HerancaGames\obj\Debug\net7.0\HerancaGames.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula09\HerancaGames\obj\Debug\net7.0\HerancaGames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula09\HerancaGames\obj\Debug\net7.0\HerancaGames.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula09\HerancaGames\obj\Debug\net7.0\HerancaGames.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula09\HerancaGames\obj\Debug\net7.0\HerancaGames.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula09\HerancaGames\bin\Debug\net7.0\HerancaGames.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula09\HerancaGames\bin\Debug\net7.0\HerancaGames.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula09\HerancaGames\bin\Debug\net7.0\HerancaGames.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula09\HerancaGames\bin\Debug\net7.0\HerancaGames.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula09\HerancaGames\bin\Debug\net7.0\HerancaGames.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula09\HerancaGames\obj\Debug\net7.0\HerancaGames.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula09\HerancaGames\obj\Debug\net7.0\refint\HerancaGames.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula09\HerancaGames\obj\Debug\net7.0\HerancaGames.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula09\HerancaGames\obj\Debug\net7.0\HerancaGames.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula09\HerancaGames\obj\Debug\net7.0\ref\HerancaGames.dll

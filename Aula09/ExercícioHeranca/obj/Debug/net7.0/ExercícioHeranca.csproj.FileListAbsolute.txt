@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula09\ExercícioHeranca\obj\Debug\net7.0\ExercícioHeranca.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula09\ExercícioHeranca\obj\Debug\net7.0\ExercícioHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula09\ExercícioHeranca\obj\Debug\net7.0\ExercícioHeranca.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula09\ExercícioHeranca\obj\Debug\net7.0\ExercícioHeranca.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula09\ExercícioHeranca\obj\Debug\net7.0\ExercícioHeranca.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula09\ExercícioHeranca\bin\Debug\net7.0\ExercícioHeranca.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula09\ExercícioHeranca\bin\Debug\net7.0\ExercícioHeranca.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula09\ExercícioHeranca\bin\Debug\net7.0\ExercícioHeranca.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula09\ExercícioHeranca\bin\Debug\net7.0\ExercícioHeranca.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula09\ExercícioHeranca\bin\Debug\net7.0\ExercícioHeranca.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula09\ExercícioHeranca\obj\Debug\net7.0\ExercícioHeranca.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula09\ExercícioHeranca\obj\Debug\net7.0\refint\ExercícioHeranca.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula09\ExercícioHeranca\obj\Debug\net7.0\ExercícioHeranca.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula09\ExercícioHeranca\obj\Debug\net7.0\ExercícioHeranca.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula09\ExercícioHeranca\obj\Debug\net7.0\ref\ExercícioHeranca.dll
