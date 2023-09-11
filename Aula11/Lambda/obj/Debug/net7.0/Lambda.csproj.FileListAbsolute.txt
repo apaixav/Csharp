@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula11\Lambda\bin\Debug\net7.0\Lambda.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula11\Lambda\bin\Debug\net7.0\Lambda.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula11\Lambda\bin\Debug\net7.0\Lambda.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula11\Lambda\bin\Debug\net7.0\Lambda.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula11\Lambda\bin\Debug\net7.0\Lambda.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula11\Lambda\obj\Debug\net7.0\Lambda.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula11\Lambda\obj\Debug\net7.0\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula11\Lambda\obj\Debug\net7.0\Lambda.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula11\Lambda\obj\Debug\net7.0\Lambda.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula11\Lambda\obj\Debug\net7.0\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula11\Lambda\obj\Debug\net7.0\Lambda.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula11\Lambda\obj\Debug\net7.0\refint\Lambda.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula11\Lambda\obj\Debug\net7.0\Lambda.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula11\Lambda\obj\Debug\net7.0\Lambda.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Csharp\Aula11\Lambda\obj\Debug\net7.0\ref\Lambda.dll
